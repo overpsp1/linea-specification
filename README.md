@@ -1,4 +1,4 @@
-# Linea zkEVM specification
+# Linea zkEVM specification  
 
 This repository hosts the specification of the constraint system underlying Linea's zkEVM.
 
